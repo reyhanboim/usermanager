@@ -1,3 +1,3 @@
 # usermanager
 
-API to connect radius and website
+API to connect between radius server and website 
